@@ -1,4 +1,4 @@
-### Eat Cheeseball :full_moon:
+### Cheeseball :full_moon:
 
 <!--
 **CheeseB/CheeseB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
