@@ -1,5 +1,10 @@
 ![깃허브프로필](https://user-images.githubusercontent.com/43297823/226826763-14a0afe5-f9ac-4f32-936e-0421cb27dab1.gif)
 
+# My Stats✨
+
+[![CheeseB's GitHub stats](https://github-readme-stats.vercel.app/api?username=CheeseB&show_icons=true&theme=buefy)](https://github.com/CheeseB/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ckckck2489)](https://solved.ac/ckckck2489/)
+
 # Skills👍
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white)
@@ -14,11 +19,6 @@
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC.svg?&style=for-the-badge&logo=VisualStudioCode&logoColor=white)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CheeseB&layout=compact)](https://github.com/CheeseB/)
-
-# My Stats✨
-
-[![CheeseB's GitHub stats](https://github-readme-stats.vercel.app/api?username=CheeseB&show_icons=true&theme=buefy)](https://github.com/CheeseB/)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ckckck2489)](https://solved.ac/ckckck2489/)
 
 # Contacts ✉️
 
