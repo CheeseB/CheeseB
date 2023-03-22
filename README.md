@@ -1,6 +1,9 @@
 ![깃허브프로필](https://user-images.githubusercontent.com/43297823/226826763-14a0afe5-f9ac-4f32-936e-0421cb27dab1.gif)
 
+# My Stats✨
+
 [![CheeseB's GitHub stats](https://github-readme-stats.vercel.app/api?username=CheeseB&show_icons=true&theme=buefy)](https://github.com/CheeseB/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ckckck2489)](https://solved.ac/ckckck2489/)
 
 # Skills👍
 
@@ -21,5 +24,3 @@
 
 [![Tech Blog Badge](https://img.shields.io/badge/GitHub%20Pages-222222?style=flat-square&logo=GitHub&logoColor=white&link=https://cheeseb.github.io/)](https://cheeseb.github.io/)
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:2489ckckck@naver.com)](mailto:2489ckckck@naver.com)
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ckckck2489)](https://solved.ac/ckckck2489/)
