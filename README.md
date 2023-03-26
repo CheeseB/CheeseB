@@ -1,4 +1,6 @@
-![깃허브프로필](https://user-images.githubusercontent.com/43297823/226826763-14a0afe5-f9ac-4f32-936e-0421cb27dab1.gif)
+<center>
+
+![깃허브프로필](https://user-images.githubusercontent.com/43297823/227778727-e4fe6d47-52d5-40f6-adfb-d5c82e3200ba.gif)
 
 # My Stats✨
 
@@ -24,3 +26,5 @@
 
 [![Tech Blog Badge](https://img.shields.io/badge/GitHub%20Pages-222222?style=flat-square&logo=GitHub&logoColor=white&link=https://cheeseb.github.io/)](https://cheeseb.github.io/)
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:2489ckckck@naver.com)](mailto:2489ckckck@naver.com)
+
+</center>
