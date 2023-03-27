@@ -2,10 +2,14 @@
 
 ![깃허브프로필](https://user-images.githubusercontent.com/43297823/227778727-e4fe6d47-52d5-40f6-adfb-d5c82e3200ba.gif)
 
+<br>
+
 # My Stats✨
 
 [![CheeseB's GitHub stats](https://github-readme-stats.vercel.app/api?username=CheeseB&show_icons=true&theme=buefy)](https://github.com/CheeseB/)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ckckck2489)](https://solved.ac/ckckck2489/)
+
+<br>
 
 # Skills👍
 
@@ -21,6 +25,8 @@
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC.svg?&style=for-the-badge&logo=VisualStudioCode&logoColor=white)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CheeseB&layout=compact)](https://github.com/CheeseB/)
+
+<br>
 
 # Contacts ✉️
 
