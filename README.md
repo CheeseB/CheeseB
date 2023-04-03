@@ -28,10 +28,11 @@
 
 <br>
 
-# Contacts ✉️
+# More 💛
 
-[![Tech Blog Badge](https://img.shields.io/badge/GitHub%20Pages-222222?style=flat-square&logo=GitHub&logoColor=white&link=https://cheeseb.github.io/)](https://cheeseb.github.io/)
-[![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:2489ckckck@naver.com)](mailto:2489ckckck@naver.com)
+[![Tech Blog Badge](https://img.shields.io/badge/Tech%20Blog-222222?style=flat-square&logo=GitHub&logoColor=white&link=https://cheeseb.github.io/)](https://cheeseb.github.io/)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/malang_cheeseb/)](https://www.instagram.com/malang_cheeseb/)
+[![Naver Badge](https://img.shields.io/badge/Email-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:2489ckckck@naver.com)](mailto:2489ckckck@naver.com)
 
 <br>
 
