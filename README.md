@@ -11,7 +11,7 @@
 
 <br>
 
-# Skills👍
+# Skills💪
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?&style=for-the-badge&logo=TypeScript&logoColor=white)
@@ -28,7 +28,7 @@
 
 <br>
 
-# More 💛
+# More👍
 
 [![Tech Blog Badge](https://img.shields.io/badge/Tech%20Blog-222222?style=flat-square&logo=GitHub&logoColor=white&link=https://cheeseb.github.io/)](https://cheeseb.github.io/)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/cheeseb_all/)](https://www.instagram.com/cheeseb_all/)
