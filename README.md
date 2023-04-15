@@ -31,7 +31,7 @@
 # More👍
 
 [![Tech Blog Badge](https://img.shields.io/badge/Tech%20Blog-222222?style=flat-square&logo=GitHub&logoColor=white&link=https://cheeseb.github.io/)](https://cheeseb.github.io/)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/cheeseb_all/)](https://www.instagram.com/cheeseb_all/)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/malang_cheeseball/)](https://www.instagram.com/malang_cheeseball/)
 [![Naver Badge](https://img.shields.io/badge/Email-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:2489ckckck@naver.com)](mailto:2489ckckck@naver.com)
 
 <br>
