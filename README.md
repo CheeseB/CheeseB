@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=fec479&height=200&section=header&text=Hello%20CheeseB%20World!&fontSize=30)
+![header](https://capsule-render.vercel.app/api?type=waving&color=FFF8EE&height=300&section=header&text=Hello%20CheeseB%20World!&fontSize=40)
 
 <div align="center">
 
