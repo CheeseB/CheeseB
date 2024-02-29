@@ -1,19 +1,17 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=FEC479&fontColor=FFFFFF&fontSize=40&fontAlignY=40&text=Hello%20CheeseB%20World!&animation=fadeIn)
-
 <div align="center">
+
+![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=FEC479&fontColor=FFFFFF&fontSize=40&fontAlignY=40&text=Hello%20CheeseB%20World!&animation=fadeIn)
 
 ![깃허브프로필](https://github.com/CheeseB/CheeseB/assets/43297823/345fdcce-3e29-4099-99f5-a15df5cb3fa4)
 
-</div>
-
-<br>
+<br/>
 
 # My Stats✨
 
 [![CheeseB's GitHub stats](https://github-readme-stats.vercel.app/api?username=CheeseB&show_icons=true&theme=buefy)](https://github.com/CheeseB/)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ckckck2489)](https://solved.ac/ckckck2489/)
 
-<br>
+<br/>
 
 # Skills💪
 
@@ -31,6 +29,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CheeseB&layout=compact)](https://github.com/CheeseB/)
 
-<br>
+<br/>
 
 </div>
