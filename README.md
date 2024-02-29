@@ -1,10 +1,8 @@
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+
 <div align="center">
 
-<div style="display:flex;justify-content:center;gap:14px;">
-
 ![깃허브프로필](https://github.com/CheeseB/CheeseB/assets/43297823/345fdcce-3e29-4099-99f5-a15df5cb3fa4)
-
-<div style="font-size:30px;font-weight:700;color:#fec479;display:flex;align-items:center;text-shadow:-2px 0px white, 0px 2px white, 2px 0px white, 0px -2px white;">Hello CheeseB World!</div>
 
 </div>
 
