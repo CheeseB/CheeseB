@@ -1,6 +1,6 @@
 <div align="center">
 
-![깃허브프로필](https://github.com/CheeseB/CheeseB/assets/43297823/28226e47-3578-4d78-8800-5350ec777829)
+![깃허브프로필](https://github.com/CheeseB/CheeseB/assets/43297823/345fdcce-3e29-4099-99f5-a15df5cb3fa4)
 
 <br>
 
